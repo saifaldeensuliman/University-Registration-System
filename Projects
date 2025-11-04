@@ -1,0 +1,54 @@
+# 🎓 University Registration System
+
+A desktop-based application built using **C# (.NET Framework)** and **SQL Server** to manage university student registrations, course enrollments, and tuition payments efficiently.
+
+---
+
+## 🧠 Overview
+
+This project was developed as part of a university course requirement to simulate a real-world student management system.  
+The application allows administrators to:
+- Register and manage student profiles  
+- Assign and track course enrollments  
+- Handle tuition fee payments and receipts  
+- Generate student reports dynamically  
+
+---
+
+## ⚙️ Technologies Used
+- **C#** (Windows Forms / WPF)
+- **SQL Server** (Database)
+- **.NET Framework**
+- **Visual Studio**
+
+---
+
+## 🗂️ Database Design
+The SQL database includes the following key tables:
+- **Students** – contains basic student info  
+- **Courses** – holds course names, credits, and details  
+- **Enrollments** – links students to their registered courses  
+- **Payments** – tracks fees, due dates, and payment status  
+
+---
+
+## 🧩 Features
+✅ User authentication (login system)  
+✅ CRUD operations for students and courses  
+✅ Real-time data validation  
+✅ Search and filter functions  
+✅ Integrated SQL queries for secure database operations  
+
+---
+
+## 🧑‍💻 Developer
+**Saif Aldeen Suliman**  
+📧 [hssrm778@gmail.com](mailto:hssrm778@gmail.com)  
+💬 Languages: Arabic, English  
+🌍 Location: Syria  
+
+---
+
+## 📌 Notes
+This project demonstrates practical experience in C# desktop development and SQL-based database management.  
+It highlights understanding of object-oriented programming (OOP), UI design, and data handling for real-world applications.
